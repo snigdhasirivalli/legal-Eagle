@@ -99,18 +99,10 @@ Legal Eagle AI acts as an automated legal auditor.
 
 
 ---
+## 🎥 Demo
 
+A short screen recording demonstrating the Legal Eagle AI workflow.
 
+👉 [Click here to watch the demo](demo/legal-eagle-demo.mp4)
 
-\## 💻 Installation \& Setup
-
-
-
-\### 1. Clone the Repository
-
-```bash
-
-git clone \[https://github.com/yourusername/legal-eagle-ai.git](https://github.com/yourusername/legal-eagle-ai.git)
-
-cd legal-eagle-ai
 
